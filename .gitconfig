@@ -1,0 +1,13 @@
+[alias]
+	stat = status -s
+	ada = add -A
+	comm = commit -m
+	pusho = push origin
+	cleanest = "!git checkout -- .; git clean -fd"
+	stashed = stash pop
+	pullo = pull origin
+	pullsub = submodule update --recursive --remote
+	clone = git clone --depth 1 --recursive
+	su = \
+            !git branch \
+                --set-upstream-to=origin/`git symbolic-ref --short HEAD`
