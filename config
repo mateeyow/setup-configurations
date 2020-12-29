@@ -1,0 +1,59 @@
+Host bastion
+    HostName 103.61.193.172
+    User matthew
+    Port 222
+
+Host bastion-jk
+    HostName 117.54.7.214
+    User matthew
+    Port 222
+    StrictHostKeyChecking no
+
+Host eagle
+    HostName 192.168.11.10
+    User root
+    StrictHostKeyChecking no
+
+Host dragon
+    HostName 192.168.1.36
+    User root
+
+Host dev
+    HostName 192.168.1.42
+    User root
+
+Host openshift-bastion
+    HostName bastion.3c12.example.opentlc.com
+    User matthew.torres-biqmind.com
+
+Host gold
+    HostName 192.168.1.75
+    User root
+
+Host erbil
+    HostName 185.38.214.124
+    User root
+
+Host vm
+    HostName 192.168.11.35
+    User root
+
+Host ucha
+    HostName 192.168.11.69
+    User root
+
+Host gio
+    HostName 192.168.11.35
+    User sysadmin
+
+Host cape-test
+    HostName 192.168.11.74
+    User root
+
+Host blog
+    HostName 128.199.105.131
+    User ghost-mgr
+
+Host scrum
+    HostName 188.166.182.124
+    User matthew
