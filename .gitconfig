@@ -8,6 +8,8 @@
 	pullo = pull origin
 	pullsub = submodule update --recursive --remote
 	clone = git clone --depth 1 --recursive
+	ut = update-index --assume-unchanged
+	t = update-index --no-assume-unchanged
 	su = \
             !git branch \
                 --set-upstream-to=origin/`git symbolic-ref --short HEAD`
