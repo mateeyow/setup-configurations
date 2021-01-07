@@ -13,3 +13,8 @@
 	su = \
             !git branch \
                 --set-upstream-to=origin/`git symbolic-ref --short HEAD`
+[core]
+	pager = less -F -X
+[user]
+	email = matthew.torres211@gmail.com
+	name = Matthew Torres
