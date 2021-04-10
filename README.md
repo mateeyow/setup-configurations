@@ -36,4 +36,5 @@ Keys:
 General:
 - Exclude from Dock... + ...but only if....
 
-![Uploading image.png…]()
+<img width="587" alt="image" src="https://user-images.githubusercontent.com/6420838/114260190-d5f43f00-9a05-11eb-954b-6618bbb36625.png">
+
