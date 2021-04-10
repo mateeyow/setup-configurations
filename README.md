@@ -16,6 +16,7 @@ Preferences > Keys > Hotkey > Create a Dedicated Hotkey Window
 
 Enable:
 - Pin hotkey window
+- Floating window
 
 ### Profile
 
