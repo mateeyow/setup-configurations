@@ -30,6 +30,7 @@ Terminal:
 - Unlimited scrollback
 
 Keys:
+- Tick Esc+ on **Left Option Key**:
 - Add hotkey for **Send escape sequence**: Send keys b/f (backward or forward)
 
 ### Appearance
