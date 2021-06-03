@@ -18,3 +18,9 @@
 [user]
 	email = matthew.torres211@gmail.com
 	name = Matthew Torres
+[pull]
+	rebase = true
+[fetch]
+	prune = true
+[diff]
+	colorMoved = zebra
