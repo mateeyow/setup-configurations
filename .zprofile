@@ -1,4 +1,4 @@
-alias rm-modules="find . -name 'node_modules' -type d -prune -print -exec rm -rf '{}' \"
+alias rm-modules="find . -name 'node_modules' -type d -prune -print -exec rm -rf '{}' "
 
 export OPENSSL_INCLUDE_DIR="$(brew --prefix openssl)/include"
 export OPENSSL_LIB_DIR="$(brew --prefix openssl)/lib"
