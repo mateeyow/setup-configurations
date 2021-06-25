@@ -40,4 +40,8 @@ function kcls() {
   export KUBECONFIG="$(k3d kubeconfig write $1)"
 }
 
+funcition portkill() {
+  lsof -i:$1 | awk '{print $2}' | tail -n +2 | xargs -I% kill -9 %
+}
+
 #source <(kubectl completion zsh)
