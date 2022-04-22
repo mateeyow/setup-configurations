@@ -13,6 +13,7 @@
 	su = \
             !git branch \
                 --set-upstream-to=origin/`git symbolic-ref --short HEAD`
+	prune-branches = !git branch -vv | grep gone] | awk '{print $1}' | xargs git branch -D
 [core]
 	pager = less -F -X
 [user]
