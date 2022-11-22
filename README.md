@@ -5,6 +5,7 @@
 - https://github.com/sindresorhus/fkill-cli
 - https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md
 - https://github.com/zsh-users/zsh-autosuggestions
+- https://github.com/wting/autojump
 
 ### Plugins
 
@@ -15,6 +16,7 @@ plugins=(
           zsh-autosuggestions
           node
           docker
+          autojump
  )
 ```
 
