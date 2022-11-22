@@ -6,6 +6,18 @@
 - https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md
 - https://github.com/zsh-users/zsh-autosuggestions
 
+### Plugins
+
+```
+plugins=(
+          git
+          zsh-syntax-highlighting
+          zsh-autosuggestions
+          node
+          docker
+ )
+```
+
 ## TMUX
 
 - https://mutelight.org/practical-tmux
