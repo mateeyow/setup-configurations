@@ -27,3 +27,5 @@
 	prune = true
 [diff]
 	colorMoved = zebra
+[rerere]
+	enabled = true
