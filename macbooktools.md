@@ -1,0 +1,27 @@
+[LINK](https://news.ycombinator.com/item?id=40627395&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn)
+
+- `pbcopy` and `pbpaste` to copy and paste data via the clipboard
+- `date -u` to give the date in UTC
+- `networkQuality` is speedtest but built-in to macOS
+- `caffeinate` prevents your computer from going to sleep (it's the same as the old Caffeinate program, but built-in now)
+- `open ...` to open a file, as if you double-clicked it in Finder
+- `security` gives you command-line access to the Keychain.
+- LittleSnitch per-application firewall, mostly for selectively granting outbound access but also controls inbound access (In general, you also need the built-in firewall setup and running correctly too.)
+- BlockBlock, KnockKnock, and RansomWhere, but not LuLu because it caused TCP connections to drop nondeterministically
+- ScrollReverser to fix standalone mouse scrolling behavior because macOS only has one mouse and trackpad reverse setting
+- KarabinerElements for key remapping
+- BusyCalendar
+- Dash for dev docs
+- MacDown for markdown
+- Bodega for checking the latest versions of all Sparkle apps (While the main app was discontinued years ago causing an error message on launch, the Sparkle update checking continues to work)
+- DaisyDisk to check disk usage
+- HardwareGrowler + Growl for hardware and network monitoring (Yes, it's old and nothing else uses Growl notifications anymore, but noticing when the Ethernet adapter is being temperamental is handy)
+- A fork of Breakaway for the rare times when I used my headphone jack to auto mute volume if it were to become disconnected unexpectedly
+- AppZapper to really nuke apps, their data, and their config (Also, old but it still works)
+- Pacifist to sneak a peak inside .pkg's
+- OmniGraffle of course, the "Visio" for Mac
+- Ascension .nfo viewer
+- WineSkin for running some Windows apps on Mac when you know exactly what runtimes they need (I ran Altera Quartus Pro/II with it fine once upon a time™ for an overseas cloned FPGA devkit)
+- Probably already mentioned: iStat Menus, Bartender, ForecastBar, Paste, Postgres, MacTracker, iTerm2
+- Don't use anymore: CoconutBattery, TotalFinder, QuickSilver, Axure RP, Reveal, Reinteract, VMware Fusion, EndNote, Papers, Bookends
+- I wish I had or could afford: a full-featured license of IDA Pro
