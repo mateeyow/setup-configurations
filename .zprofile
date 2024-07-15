@@ -31,6 +31,7 @@ alias k=kubectl
 alias kcd="kubectl config set-context --current --namespace"
 alias rmmodules="find . -name 'node_modules' -type d -prune -print -exec rm -rf '{}' \;"
 alias ops="/usr/local/bin/operator-sdk"
+alias p="pnpm"
 
 function cheat() {
   curl cht.sh/$1
