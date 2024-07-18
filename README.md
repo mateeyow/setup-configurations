@@ -56,3 +56,9 @@ General:
 
 <img width="587" alt="image" src="https://user-images.githubusercontent.com/6420838/114260190-d5f43f00-9a05-11eb-954b-6618bbb36625.png">
 
+
+## Multiple User Git
+
+https://superuser.com/a/1664624
+
+This setup will set the `.gitconfig` depending on where you will be running the `git` command
