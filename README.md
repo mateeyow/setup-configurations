@@ -62,3 +62,7 @@ General:
 https://superuser.com/a/1664624
 
 This setup will set the `.gitconfig` depending on where you will be running the `git` command
+
+ALSO:
+
+https://stevenharman.net/configure-ssh-keys-for-multiple-github-accounts
