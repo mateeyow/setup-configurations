@@ -66,3 +66,7 @@ This setup will set the `.gitconfig` depending on where you will be running the 
 ALSO:
 
 https://stevenharman.net/configure-ssh-keys-for-multiple-github-accounts
+
+## Go private module
+
+To allow go to download private packages, you need to create `.netrc` file under `$HOME/.netrc`
