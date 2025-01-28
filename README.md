@@ -64,8 +64,8 @@ https://superuser.com/a/1664624
 This setup will set the `.gitconfig` depending on where you will be running the `git` command
 
 ALSO:
-
-https://stevenharman.net/configure-ssh-keys-for-multiple-github-accounts
+- https://stevenharman.net/configure-ssh-keys-for-multiple-github-accounts
+- https://www.benji.dog/articles/git-config/
 
 ## Go private module
 
